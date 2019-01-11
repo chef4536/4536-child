@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/*
+Theme Name: 4536-child
+Theme URI: https://4536.jp
+Description: 4536子テーマ
+Author: Chef
+Author URI: https://4536.jp
+Template: 4536
+Version: 20190110
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Msg: メディアクエリを使いたい場合はこのファイルの中身をstyle.cssにコピペしてください。
+*/
+
+/* ▼ここからコード追加▼ */
+
+/* --------------------------------------------------
+/* max-480px BEGIN
+--------------------------------------------------- */
+@media screen and (max-width: 479px) {
+/* max-480px END */
+}
+
+/* --------------------------------------------------
+/* min-480px BEGIN
+--------------------------------------------------- */
+@media screen and (min-width: 480px) {
+/* min-480px END */
+}
+
+/* --------------------------------------------------
+/* max-767px BEGIN
+--------------------------------------------------- */
+@media screen and (max-width: 767px) {
+/* max-767px END */
+}
+
+/* --------------------------------------------------
+/* min-768px BEGIN
+--------------------------------------------------- */
+@media screen and (min-width: 768px) {
+/* min-768px END */
+}
